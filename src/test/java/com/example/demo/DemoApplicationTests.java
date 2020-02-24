@@ -12,7 +12,10 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 System.out.println("Test");
+
+System.out.println("added another line");
 	}
+
 
 
 
