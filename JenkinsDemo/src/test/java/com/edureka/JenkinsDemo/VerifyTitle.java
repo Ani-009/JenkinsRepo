@@ -19,7 +19,7 @@ public class VerifyTitle {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
-
+System.out.println("-------");
 		driver.get("https://facebook.com");
 
 	}
