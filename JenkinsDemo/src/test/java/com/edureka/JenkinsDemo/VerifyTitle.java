@@ -20,7 +20,8 @@ public class VerifyTitle {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
           System.out.println("-------");
-          System.out.printl("added more")
+          System.out.printl("added more");
+		System.out.printl("added more");
 		driver.get("https://facebook.com");
 
 	}
