@@ -15,7 +15,7 @@ public class VerifyTitle {
 	@BeforeTest
 	public void openBrowser() {
 		System.out.println("openBrowser : BaseClass");
-
+System.out.println("openBrowser : BaseClass");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<!--
       <module fileurl="file://$PROJECT_DIR$/.idea/JenkinsDemo.iml" filepath="$PROJECT_DIR$/.idea/JenkinsDemo.iml" />
+-->
+      <module fileurl="file://$PROJECT_DIR$/JenkinsDemo.iml" filepath="$PROJECT_DIR$/JenkinsDemo.iml" />
+
     </modules>
   </component>
 </project>
