@@ -22,7 +22,7 @@ public class VerifyTitle {
           System.out.println("-------");
 
           System.out.printl("added more");
-		System.out.printl("added more");
+		System.out.printl("added more 1S");
 
 		driver.get("https://facebook.com");
 
