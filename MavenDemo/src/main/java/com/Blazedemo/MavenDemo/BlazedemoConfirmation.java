@@ -10,6 +10,7 @@ public class BlazedemoConfirmation {
 	@FindBy(css="body > div.container > div > h1")
 	private WebElement confirmationMessage;
 	
+	
 	public BlazedemoConfirmation(WebDriver driver) {		
 		PageFactory.initElements(driver, this);
 	}
